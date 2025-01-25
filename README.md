@@ -21,9 +21,9 @@
   <h3>🔧 Installation</h3>
   <ol>
     <li><strong>Clone the repository:</strong>
-      <pre><code>git clone https://github.com/yourusername/your-repository.git</code></pre>
+      <pre><code>git clone https://github.com/NipunSGeeTH/Telegram-chat-bot-Powerd-by-Gemini.git</code></pre>
       <p>Change directory to your project folder:</p>
-      <pre><code>cd your-repository</code></pre>
+      <pre><code>cd Telegram-chat-bot-Powerd-by-Gemini</code></pre>
     </li>
     <li><strong>Install dependencies:</strong>
       <pre><code>pip install -r requirements.txt</code></pre>
@@ -34,7 +34,7 @@
 TELEGRAM_BOT_API=your-telegram-bot-api-key</code></pre>
     </li>
     <li><strong>Run the bot:</strong>
-      <pre><code>python bot.py</code></pre>
+      <pre><code>python app.py</code></pre>
       <p>The bot will now start running and respond to messages on Telegram! 🎉</p>
     </li>
   </ol>
