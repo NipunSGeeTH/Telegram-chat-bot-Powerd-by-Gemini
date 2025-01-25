@@ -11,6 +11,23 @@
     <li><strong>Friendly and natural conversation</strong>: The bot is designed to engage in human-like, natural conversations with users.</li>
   </ul>
 
+
+
+<p align="center">
+  <h1><a href="https://t.me/Dinithibot">View Demo Page</a></h1>
+</p>
+
+<div>
+  <img src="https://github.com/NipunSGeeTH/github-readme-images-host/blob/main/Telegram-chat-bot-Powerd-by-Gemini/Screenshot_20250125-165155_Telegram.png" alt="" style="width: 250px; height: auto;">
+  <img src="https://github.com/NipunSGeeTH/github-readme-images-host/blob/main/Telegram-chat-bot-Powerd-by-Gemini/Screenshot_20250125-165451_Telegram.png" alt="" style="width: 250px; height: auto;">
+ 
+  <img src="https://github.com/NipunSGeeTH/github-readme-images-host/blob/main/Telegram-chat-bot-Powerd-by-Gemini/Screenshot_20250125-165709_Telegram.png" alt="" style="width: 250px; height: auto;">
+
+</div>
+
+
+  
+
   <h3>💻 Requirements</h3>
   <ul>
     <li><strong>Python 3.7+</strong> 🐍</li>
@@ -48,9 +65,6 @@ TELEGRAM_BOT_API=your-telegram-bot-api-key</code></pre>
   <h3>🤝 Contributing</h3>
   <p>If you have any ideas for improving the bot or would like to contribute, feel free to fork this repository and submit a pull request!</p>
 
-  <h3>📸 Demo</h3>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/yourusername/your-repository/main/demo_image.png" alt="Demo Image" style="width: auto; height: auto;">
-  </p>
+
 </body>
 </html>
