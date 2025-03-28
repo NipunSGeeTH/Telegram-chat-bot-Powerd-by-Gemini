@@ -14,15 +14,11 @@
 
 
 <p align="center">
-  <h1><a href="https://t.me/Dinithibot">View Demo Page</a></h1>
+
 </p>
 
 <div>
-  <img src="https://github.com/NipunSGeeTH/github-readme-images-host/blob/main/Telegram-chat-bot-Powerd-by-Gemini/Screenshot_20250125-165155_Telegram.png" alt="" style="width: 250px; height: auto;">
-  <img src="https://github.com/NipunSGeeTH/github-readme-images-host/blob/main/Telegram-chat-bot-Powerd-by-Gemini/Screenshot_20250125-165451_Telegram.png" alt="" style="width: 250px; height: auto;">
  
-  <img src="https://github.com/NipunSGeeTH/github-readme-images-host/blob/main/Telegram-chat-bot-Powerd-by-Gemini/Screenshot_20250125-165709_Telegram.png" alt="" style="width: 250px; height: auto;">
-
 </div>
 
 
